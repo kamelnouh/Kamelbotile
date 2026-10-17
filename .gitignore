@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+bot_chats.sqlite3
+bot_chats.sqlite3-shm
+bot_chats.sqlite3-wal
+appstate.json

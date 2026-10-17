@@ -1,10 +1,10 @@
 {
-  "name": "bot",
+  "name": "kamelbotile",
   "version": "1.0.0",
-  "description": "Facebook and Telegram bot",
-  "main": "index.js",
+  "description": "Telegram and Facebook integrated bot",
+  "main": "bot.py",
   "scripts": {
-    "start": "node index.js"
+    "start": "python bot.py"
   },
   "dependencies": {
     "fca-unofficial": "latest",
