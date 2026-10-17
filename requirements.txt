@@ -1,4 +1,1 @@
-pyTelegramBotAPI
-requests
-fca-unofficial
-
+pyTelegramBotAPI>=4.14,<5
