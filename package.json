@@ -1,10 +1,12 @@
 {
   "name": "botrx",
   "version": "1.0.0",
-  "description": "Facebook Bot with appstate",
+  "description": "Advanced Facebook Bot with appstate",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fca-unofficial": "^1.4.1"
+  }
 }
