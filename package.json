@@ -1,12 +1,16 @@
 {
-  "name": "botrx",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "Advanced Facebook Bot with appstate",
+  "description": "Facebook and Telegram bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "fca-unofficial": "^1.4.1"
+    "fca-unofficial": "latest",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
